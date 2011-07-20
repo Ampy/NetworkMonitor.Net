@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkMonitor.Common", "NetworkMonitor.Common\NetworkMonitor.Common.csproj", "{0817A6B9-5AE1-4B2C-BC67-62D701585ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkMonitor.App", "NetworkMonitor.App\NetworkMonitor.App.csproj", "{AA859806-87A1-4E25-84F2-FA6A50848B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0817A6B9-5AE1-4B2C-BC67-62D701585ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0817A6B9-5AE1-4B2C-BC67-62D701585ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0817A6B9-5AE1-4B2C-BC67-62D701585ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0817A6B9-5AE1-4B2C-BC67-62D701585ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA859806-87A1-4E25-84F2-FA6A50848B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA859806-87A1-4E25-84F2-FA6A50848B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA859806-87A1-4E25-84F2-FA6A50848B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA859806-87A1-4E25-84F2-FA6A50848B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
